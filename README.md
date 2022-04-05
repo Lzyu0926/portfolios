@@ -8,12 +8,10 @@ Email: zhenyuliu0825@gmail.com
 Phone: (+886)968678238
 -------------------     ----------------------------
 
-**Experience**
+**經歷與獎項**
 
 * NCCU Google Developer Student Club (Embedded System department)
-
 * 政治大學 ACM-ICPC 選手培訓營
-
 * 參與 香港理工大學 International Symposium and Expo on Service-Learning and Socially Responsible Global Citizenship
 * 政治大學 物件導向程式競賽專題 第三名
 * 參與 Global Youth Leadership Summit
@@ -33,11 +31,14 @@ Phone: (+886)968678238
 * 政治大學 物件導向程式設計專題 星座血型人格分析
     * 配合題目要求利用物件導向語言(C++)繼承、多型、封裝的特性 做出星座血型對應的人格特性軟體，並搭配QT呈現
 
-**Technical Experience**
+**程式技能**
 
     * 熟悉:C/C++/Java/Python 
 
     * 使用過: MySQL/postgresql/reactjs/nodejs/R/Haskell
+    
+**實習經驗**
+* 緯創資通： monitor 測試部門
 
 
 

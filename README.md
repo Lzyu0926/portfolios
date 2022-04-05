@@ -40,6 +40,12 @@ Phone: (+886)968678238
 **實習經驗**
 * 緯創資通： monitor 測試部門
 
+**作品**
+
+* Cprograming 為一些 c 語言的小程式 包含：電話簿、字串處理、字源分析等
+* DBMS_Proj-main 為資料庫系統專題 網頁實名制
+* Distributed System 為對於分散式系統的一些小練習 包含 REST, SOAP 等
+* Data Structure 為資料結構的實作練習
 
 
 
